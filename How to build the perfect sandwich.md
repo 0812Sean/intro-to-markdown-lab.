@@ -49,7 +49,7 @@ Building the perfect sandwich is an art form! Here's a step-by-step guide to cra
 ### 7. **Top it Off**:
 - Complete your sandwich with the top slice of bread. Press down gently to ensure all the layers are secure.
 
-### **8. Slice and Serve**:
+### 8. **Slice and Serve**:
 - Use a sharp knife to slice your sandwich diagonally or horizontally, depending on your preference.
 - Serve your sandwich with your favorite side dishes, such as chips, pickles, or a side salad.
 
