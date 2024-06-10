@@ -53,6 +53,4 @@ For more information on functions and how they are used in JS, check out the [MD
 )docs. 
 
 
-# hi
-## eveybody
 ![studying](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3R1ZHl8ZW58MHx8MHx8fDA%3D)
